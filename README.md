@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZyroDev
-- 👀 I’m interested in / lua/python/C++
-- 📫 How to reach me / https://discord.gg/ZgmMZYSD4x
+- 👀 I’m interested in /lua/python/C++
+- 📫 How to reach me /https://discord.gg/ZgmMZYSD4x
 
 
 <!---
